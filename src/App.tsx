@@ -8,6 +8,7 @@ function App() {
     Hello world!
   </h1>
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus, consectetur?</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus, consectetur?</p>
       </div>
     </div>
   );
